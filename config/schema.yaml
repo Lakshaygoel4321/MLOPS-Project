@@ -1,5 +1,4 @@
 columns:
-  - _id: categorical
   - Date: categorical
   - Location: categorical
   - MinTemp: float
